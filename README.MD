@@ -1,5 +1,3 @@
----
-
 # **Streamlit Application: Chat with Multiple PDFs Using Gemini**
 
 ## **Purpose**
